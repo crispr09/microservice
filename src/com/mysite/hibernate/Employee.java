@@ -3,7 +3,6 @@ package com.mysite.hibernate;
 public class Employee { 
 
 private int id;  
-private int id2; 
 private String firstName,lastName;  
   
 
