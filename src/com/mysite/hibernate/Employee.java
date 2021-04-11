@@ -2,7 +2,8 @@ package com.mysite.hibernate;
 
 public class Employee { 
 
-private int id;  
+private int id; 
+private int id_test;  
 private String firstName,lastName;  
   
 
