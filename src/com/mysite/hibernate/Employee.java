@@ -5,8 +5,14 @@ public class Employee {
 private int id; 
 private int id_test;  
 private String firstName,lastName;  
+private int newVar;
   
-
+public int getNewVar() {  
+    return newVar;  
+}  
+public void setNewVar(int var) {  
+    this.newVar = var;  
+}
 public int getId() {  
     return id;  
 }  
